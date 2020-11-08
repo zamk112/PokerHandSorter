@@ -8,8 +8,8 @@ import java.util.List;
 
 public class RankingRules {
     /**
-     * This function will check if there is a card with the highest value.
-     * And will overwrite the previous highest single value card.
+     * All the functions in this class, will take an two dimensional array and return either a null value
+     * or an ArrayList of Rankings and their cards.
      * @param showHand
      * @return Ranking
      */
@@ -36,12 +36,6 @@ public class RankingRules {
         return null;
     }
 
-    /**
-     * This function will check if there is a pair. Each time it finds the pair; it will
-     * overwrite the previous pair.
-     * @param showHand
-     * @return Ranking
-     */
     public static Ranking pair(int[][] showHand) {
         if (showHand != null) {
             List<Integer> cardNums = new ArrayList<Integer>();;
@@ -65,10 +59,6 @@ public class RankingRules {
         return null;
     }
 
-    /**
-     * @param showHand
-     * @return Ranking
-     */
     public static Ranking twoPairs(int[][] showHand) {
         if (showHand != null) {
             List<Integer> cardNums = new ArrayList<Integer>();

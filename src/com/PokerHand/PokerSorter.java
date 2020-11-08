@@ -1,11 +1,8 @@
 package com.PokerHand;
 
 import com.Card.Hand;
-import com.Card.Ranking;
 import com.Rules.RankingChecks;
 
-import java.io.*;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class PokerSorter {
@@ -23,7 +20,7 @@ public class PokerSorter {
         System.out.println("Player 2: " + p2Score);
     }
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String inString;
         String dealerStr[];
         Hand p1, p2;
@@ -57,26 +54,6 @@ public class PokerSorter {
                 }
 
                 printResults(p1Score, p2Score);
-            }
-        }
-        else {
-            String fileName = args[0];
-            BufferedReader bReader;
-
-            File inFile = new File(fileName);
-            if (!inFile.exists()) {
-                throw new FileNotFoundException();
-            }
-
-            bReader = new BufferedReader(new FileReader(inFile));
-
-            inString = bReader.readLine();
-            while(inString != null) {
-                dealerStr = inString.split("\\s+");
-                if (dealerStr.length == 10) {
-
-                }
-                inString = bReader.readLine();
             }
         }
     }

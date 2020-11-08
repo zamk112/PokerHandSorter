@@ -2,7 +2,6 @@ package com.Card;
 
 import com.Rules.Combination;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Ranking {
