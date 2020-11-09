@@ -14,7 +14,7 @@ To build this solution:
 3. Jar file will be created in `$ProjectFileDir$/out/artifacts/PokerHandSorter_jar`
 
 # How to execute the solution
-To execute the solution, please run the following command:
+To execute the solution, please run the following command on Linux terminal or PowerShell:
 ```
 cat poker-hands.txt | java -jar PokerHandSorter.jar
 ```
