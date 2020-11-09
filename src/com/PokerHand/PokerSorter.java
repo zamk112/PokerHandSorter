@@ -29,8 +29,7 @@ public class PokerSorter {
         if (args.length == 0) {
             Scanner sc = new Scanner(System.in);
             if (!sc.hasNextLine()) {
-                System.out.println("Usage: $ cat");
-
+                System.out.println("Usage: $ cat [FILE] | java -jar PokerHandSorter.jar");
             }
             else {
                 while(sc.hasNextLine()) {

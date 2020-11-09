@@ -25,7 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aff03e8d-a65d-4c7e-b6e9-c735699207d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/PokerHand/PokerSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/PokerHand/PokerSorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +68,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/com" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources/poker-hands.txt" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -317,11 +319,11 @@
     </state>
     <state x="3679" y="266" width="677" height="869" key="#Project_Structure/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604841233711" />
     <state x="2263" y="297" width="1024" height="852" key="#Project_Structure/0.27.5360.1413@0.27.5360.1413" timestamp="1603625474998" />
-    <state x="2398" y="112" width="1538" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604879613152">
+    <state x="2398" y="112" width="1538" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604880511826">
       <screen x="1920" y="0" width="3440" height="1440" />
     </state>
     <state x="802" y="289" width="826" height="639" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.3440.1440@0.27.1920.1053" timestamp="1604200558903" />
-    <state x="2398" y="112" width="1538" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604879613152" />
+    <state x="2398" y="112" width="1538" height="808" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604880511826" />
     <state x="478" y="137" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.3440.1413@0.27.3440.1413" timestamp="1604878842659" />
     <state x="2238" y="378" width="1084" height="857" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.5360.1413@0.27.5360.1413" timestamp="1604879423306" />
     <state x="2020" y="100" width="3240" height="1240" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604228474058">
@@ -411,10 +413,10 @@
     </state>
     <state width="1668" height="496" key="GridCell.Tab.1.right/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604538325978" />
     <state width="3398" height="496" key="GridCell.Tab.1.right/0.27.5360.1413@0.27.5360.1413" timestamp="1604838850925" />
-    <state x="2184" y="330" width="992" height="737" key="SettingsEditor" timestamp="1604877792998">
-      <screen x="0" y="27" width="3440" height="1413" />
+    <state x="4104" y="309" width="992" height="737" key="SettingsEditor" timestamp="1604880107220">
+      <screen x="1920" y="0" width="3440" height="1440" />
     </state>
-    <state x="4104" y="309" width="900" height="759" key="SettingsEditor/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604840812109" />
+    <state x="4104" y="309" width="900" height="759" key="SettingsEditor/0.27.1920.1053/1920.0.3440.1440@1920.0.3440.1440" timestamp="1604880107220" />
     <state x="2184" y="330" width="992" height="737" key="SettingsEditor/0.27.3440.1413@0.27.3440.1413" timestamp="1604877792998" />
     <state x="2284" y="355" width="992" height="737" key="SettingsEditor/0.27.5360.1413@0.27.5360.1413" timestamp="1603630301454" />
     <state x="1225" y="469" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1604876774764">
